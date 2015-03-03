@@ -22,5 +22,5 @@ Then add **hubot-hello-world** to your `external-scripts.json`:
 
 ```
 user1>> hubot hello
-hubot>> hello!
+hubot>> HelloWorld!
 ```
