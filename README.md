@@ -23,4 +23,6 @@ Then add **hubot-hello-world** to your `external-scripts.json`:
 ```
 user1>> hubot hello
 hubot>> HelloWorld!
+user1>> hubot こんにちは
+hubot>> HelloWorld!
 ```

@@ -11,6 +11,6 @@
 #   Ohyama_ <yuki.ohyama@gmail.com>
 
 module.exports = (robot) ->
-  robot.respond /hello/, (msg) ->
+  robot.respond /[hello|こんにちは]/, (msg) ->
     msg.reply "HelloWorld!"
 
