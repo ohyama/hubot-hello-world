@@ -1,6 +1,6 @@
 {
   "name": "hubot-hello-world",
-  "description": "A hubot script that responsed "HelloWorld!"",
+  "description": "A hubot script that responsed 'HelloWorld!'",
   "version": "0.0.0",
   "author": "Ohyama_ <yuki.ohyama@gmail.com>",
   "license": "MIT",
